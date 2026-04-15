@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-int main() {
+void main() {
 
    enum comp{GOOGLE,FACEBOOK,XEROX,YAHOO,EBAY,MICROSOFT};
    enum comp g=GOOGLE;
